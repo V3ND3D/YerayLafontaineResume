@@ -19,7 +19,7 @@ https://github.com/V3ND3D
 www.linkedin.com/in/yeraylafontaine
 Citizenship: U.S. Citizen
 Clearance: Prior Federal Security Clearance: Secret
-Availability: Immediate | Remote
+Availability: Immediate
 
 OBJECTIVE
 Motivated and bilingual IT student with hands-on experience in system troubleshooting, cybersecurity fundamentals, and technical support. Seeking to leverage my training and education to begin a career in cybersecurity and IT operations, with a strong interest in security analysis and network defense.
