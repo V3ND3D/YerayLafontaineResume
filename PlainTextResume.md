@@ -21,9 +21,10 @@ Citizenship: U.S. Citizen
 Clearance: Prior Federal Security Clearance: Secret
 Availability: Immediate
 
-OBJECTIVE
+OBJECTIVE:
 Motivated and bilingual IT student with hands-on experience in system troubleshooting, cybersecurity fundamentals, and technical support. Seeking to leverage my training and education to begin a career in cybersecurity and IT operations, with a strong interest in security analysis and network defense.
-EDUCATION
+
+EDUCATION:
 Western Governors University (WGU) – Salt Lake City, UT (Online)
 Bachelor of Science in Cybersecurity and Information Assurance
 Expected Graduation: November 2025
@@ -34,7 +35,7 @@ High School Diploma (Aug 2019 – Jun 2023)
 Business Management Basics, Microsoft Office Suite, and Visual Basics using Visual Studio
 GPA: 3.75 (Good Academic Standing)
 
-CERTIFICATIONS & TOOLS
+CERTIFICATIONS:
 Completed:
 •	Foundations of Cybersecurity by Google
 •	Play It Safe: Manage Security Risks by Google
@@ -54,10 +55,12 @@ In Progress / Planned:
 •	ITIL Foundation Certification
 •	Certified Cloud Security Professional (CCSP)
 •	Systems Security Certified Practitioner (SSCP) – Associate of ISC2 designation
+
 Tools:
 •	GitHub Projects | Linux | Windows | Virtual Machines | Basic Networking | Wireshark (beginner) | MS Office Suite | Notion | VS Code
 
-EXPERIENCE
+EXPERIENCE:
+
 Database Specialist
 Caduceus LLC – Bayamon, PR
 Mar 2024 – Feb 2025
@@ -65,12 +68,14 @@ Mar 2024 – Feb 2025
 •	Parsed resumes, exported data to Excel and maintained accurate, categorized candidate records.
 •	Linked applicants to government contracts and collaborated with database manager to ensure data security and integrity.
 •	Communicated fluently in Spanish and English; leveraged advanced Excel skills to generate reports and maintain database workflows.
+
 Cashier & Customer Service
 MegaFresh Supermarket – Toa Baja, PR
 Jan 2024 – Mar 2024
 •	Processed customer transactions efficiently and handled cash, credit, and debit payments.
 •	Delivered high-quality service by resolving inquiries and maintaining a clean, organized checkout station.
 •	Assisted with inventory restocking to ensure continued product availability.
+
 Enlisted Trainee
 U.S. Army – Fort Leonard Wood, MO
 Jun 2023 – Oct 2023
@@ -78,6 +83,7 @@ Jun 2023 – Oct 2023
 •	Conducted administrative tasks such as documentation handling and file management with precision and confidentiality.
 •	Trained in firearms safety, marksmanship, weapons handling, and ammunition management.
 •	Demonstrated discipline, accountability, and the ability to perform under pressure in a highly structured environment.
+
 Sales Associate
 Office Expert – Toa Alta, PR
 Jan 2023 – May 2023
