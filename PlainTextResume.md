@@ -20,7 +20,8 @@ Yeray Lafontaine
 # Yeray Y. Lafontaine Martinez  
 **Location:** Toa Baja, PR 00951  
  yylm05@pm.me |  (787) 988-0646  
- [GitHub](https://github.com/V3ND3D) | [LinkedIn](https://www.linkedin.com/in/yeraylafontaine)  
+ [GitHub](https://github.com/V3ND3D)
+ [LinkedIn](https://www.linkedin.com/in/yeraylafontaine)  
 **Citizenship:** U.S. Citizen  
 **Clearance:** Prior Federal Security Clearance: Secret  
 **Availability:** Immediate  
