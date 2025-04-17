@@ -54,7 +54,7 @@ Coursework: Business Management Basics, Microsoft Office Suite, Visual Basics wi
 - Foundations of Cybersecurity – Google  
 - Play It Safe: Manage Security Risks – Google  
 
-**In Progress / Planned:**  
+**In Progress:**  
 - CompTIA A+, Network+, Security+, Project+, CySA+  
 - CompTIA IT Operations Specialist (Stacked)  
 - CompTIA Network Vulnerability Assessment Professional (Stacked)  
