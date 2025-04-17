@@ -12,28 +12,28 @@ Thank you for your time and consideration. I would be excited to bring my skills
 
 **Sincerely,**  
 Yeray Lafontaine  
-📧 yylm05@proton.me  
-📞 (787) 988-0646  
+ yylm05@proton.me  
+ (787) 988-0646  
 
 ---
 
 # Yeray Y. Lafontaine Martinez  
 **Location:** Toa Baja, PR 00951  
-📧 yylm05@pm.me | 📞 (787) 988-0646  
-🔗 [GitHub](https://github.com/V3ND3D) | [LinkedIn](https://www.linkedin.com/in/yeraylafontaine)  
+ yylm05@pm.me |  (787) 988-0646  
+ [GitHub](https://github.com/V3ND3D) | [LinkedIn](https://www.linkedin.com/in/yeraylafontaine)  
 **Citizenship:** U.S. Citizen  
 **Clearance:** Prior Federal Security Clearance: Secret  
 **Availability:** Immediate  
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Motivated and bilingual IT student with hands-on experience in system troubleshooting, cybersecurity fundamentals, and technical support. Seeking to leverage my training and education to begin a career in cybersecurity and IT operations, with a strong interest in security analysis and network defense.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Western Governors University (WGU)** – Salt Lake City, UT (Online)  
 Bachelor of Science in Cybersecurity and Information Assurance  
@@ -47,7 +47,7 @@ Coursework: Business Management Basics, Microsoft Office Suite, Visual Basics wi
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 **Completed:**  
 - Foundations of Cybersecurity – Google  
@@ -66,14 +66,14 @@ Coursework: Business Management Basics, Microsoft Office Suite, Visual Basics wi
 
 ---
 
-## 🛠 Tools & Tech
+##  Tools & Tech
 
 GitHub Projects • Linux • Windows • Virtual Machines • Wireshark (Beginner)  
 MS Office Suite • Notion • VS Code • Basic Networking  
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Database Specialist**  
 *Caduceus LLC – Bayamon, PR | Mar 2024 – Feb 2025*  
@@ -97,7 +97,7 @@ MS Office Suite • Notion • VS Code • Basic Networking
 
 ---
 
-## 🧪 Projects & Development
+##  Projects & Development
 
 - **GitHub:** [github.com/V3ND3D](https://github.com/V3ND3D)  
 - **OPSEC Cybersecurity Awareness Project (2024–Present):** Public repo covering compartmentalization, digital hygiene, and ethical hacking guides  
@@ -107,10 +107,10 @@ MS Office Suite • Notion • VS Code • Basic Networking
 
 ---
 
-## 🌐 Additional Details
+##  Additional Details
 
 - Fluent in English & Spanish  
 - Flexible for relocation (internships or hybrid roles)  
 - Highly self-motivated with full-time study & solo learning systems  
 
-📌 *References available upon request*
+ *References available upon request*
